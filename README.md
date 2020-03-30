@@ -1,2 +1,2 @@
-# Danny
+# JAVASTUDY
 Hello!
